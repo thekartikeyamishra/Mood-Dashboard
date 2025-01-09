@@ -1,0 +1,23 @@
+motivational_quotes = [
+    "Believe you can and you're halfway there. –Theodore Roosevelt",
+    "Success is not final, failure is not fatal: It is the courage to continue that counts. –Winston Churchill",
+    "Act as if what you do makes a difference. It does. –William James",
+    "The only way to do great work is to love what you do. –Steve Jobs",
+    "You are never too old to set another goal or to dream a new dream. –C.S. Lewis"
+]
+
+jokes = [
+    "Why don't scientists trust atoms? Because they make up everything!",
+    "Why was the math book sad? It had too many problems.",
+    "What do you call fake spaghetti? An impasta!",
+    "Why don’t skeletons fight each other? They don’t have the guts.",
+    "I told my computer I needed a break, and now it won't stop sending me Kit-Kats."
+]
+
+relaxing_videos = [
+    "https://www.youtube.com/watch?v=5qap5aO4i9A",  # Lofi beats
+    "https://www.youtube.com/watch?v=lTRiuFIWV54",  # Nature sounds
+    "https://www.youtube.com/watch?v=2OEL4P1Rz04",  # Fireplace
+    "https://www.youtube.com/watch?v=xfr64zoBTAQ",  # Calm piano
+    "https://www.youtube.com/watch?v=AYvR4hEIwoo"   # Ocean waves
+]
